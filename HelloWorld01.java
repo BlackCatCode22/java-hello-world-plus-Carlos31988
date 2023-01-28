@@ -23,7 +23,7 @@ public class HelloWorld01 {
         userName = userInput.nextLine();
 
         // Processing: Create a greeting
-        greeting = "Hello " + userName + " how are you today?";
+        greeting = "Hello " + userName + ", I hope you're doing well!";
 
         // Output:
         System.out.println("\n\n" + greeting + "\n\n");
